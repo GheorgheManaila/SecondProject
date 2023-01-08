@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  align-content: center;
+  background-color: azure;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+  width: 1300px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 50px;
+  color: chartreuse;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+table {
+  border: 10px solid chartreuse;
+  opacity: 0.9;
+}
+
+th {
+  font-size: 20px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+td {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.text {
+  margin-bottom: 100px;
+}
